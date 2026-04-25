@@ -21,5 +21,5 @@ nav:
     - User: 02-Agents/Nova/USER.md
     - Style: 02-Agents/Nova/STYLE.md
   - Configuration: 01-Configuration/config.toml
-  - Journal: 03-Journal/
-  - Showcase: 04-Showcase/
+  - Journal: 03-Journal/fixing-errors.md
+  - Showcase: 04-Showcase/best-results.md
